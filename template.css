@@ -1,0 +1,21 @@
+body{
+	background-image: url('bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.motorutama{
+	width:200px;
+}
+.ereking{
+	width:100%;
+}
+.motogp{
+	width:100%;
+}
+.cardmain{
+	width:100%;
+	box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
+	padding:10px;
+	border-radius: 20px;
+}

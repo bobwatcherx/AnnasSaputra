@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jenis motor</title>
+</head>
+<body>
+	<center>
+		<h2>Silahkan pilih jenis model kendaran bermotor</h2>
+		<a href="pelanggan.html">melihat data pelanggan</a>
+		<br>
+		<br>
+		<from method="post"action="simpan.php">
+			<table>
+				<tr>
+					<td>Nama</td>
+					<td><Input type="text" name="nama"></td>
+				</tr>
+				<tr>
+					<td>jenis kendaraan</td>
+					<td><select name="menu">
+						<option value="honda">honda</option>
+						<option value="yamaha">yamaha</option>
+						<option value="kawasaki">kawasaki</option>
+						<option value="suzuki">suzuki</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td>telp</td>
+				<td><Input type="text"name="telp"></td>
+			</tr>
+			<tr>
+				<td>Alamat</td>
+				<td><textarea cols="22"Rows="5"Name="alamat"></textarea></td>
+			</tr>
+			<tr>
+				<td>Pilih</td>
+				<td><input type="submit"value="simpan data">
+					<input type="reset"value="Batal Data"></td>
+				</tr>
+
+			</table>
+		</center>
+		<center><a href="index.html">Home</a></center>
+
+	</body>
+	</html>

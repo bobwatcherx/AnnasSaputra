@@ -1,0 +1,63 @@
+<html>
+	<head>
+		<title>Web modifikasi motor</title>
+		<link rel="icon" type="img/png" href="logo.jpeg"/>
+		<link rel="stylesheet" type="text/css" href="template.css"/>
+		<link rel="stylesheet" href="mat.css">
+		<script src="mat.js"></script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1>modifikasi motor</h1>
+				<nav>
+					<ul>
+						<li><a href="" class="current">Beranda</a></li>
+						<li><a href="tentang.html">tentang</a></li>
+						<li><a href="kontak person.html">kontak person</a></li>
+					</ul>
+				</nav>
+			</header>
+			<section class="courses">
+			<article>
+					<figure>
+						<img src="4.jpeg" title="honda cb">
+						<figcaption>Honda CB klasik</figcaption>
+					</figure>
+					<hgroup>
+						<h2>modifikasi</h2>
+						<h3>Motor kelasik</h3>
+					</hgroup>
+					<p>modifikasi motor yaitu sebuah kumunitas pencinta otomotif di mana didalamnya itu terdapat berbagai macam motor motor yang telah di modif hanya untuk memberi warna pada dunia otomotif</p>
+				</article>    
+				<article>
+					<figure>
+						<img src="8.jpeg" title="honda cb 100">
+						<figcaption>Honda CB Modofikasi</figcaption>
+					</figure>
+					<hgroup>
+						<h2>modifikasi</h2>
+						<h3>otomotif</h3>
+					</hgroup>
+					<p>otomotif merupakan sebuah komunitas pencinta motor dengan cara memodifikasi mototr tersebut menjadi lebih bagus dan keren'</p>
+					</article>
+			</section>
+			<aside>
+				<section class="popular-recipes">
+					<h2>Motor terlaris</h2>
+					<a href="">honda</a>
+					<a href="">yamaha</a>
+					<a href="">kawasaki</a>
+					<a href="">Suzuki</a>
+				</section>
+				<section class="contact-details">
+					<h2>Kontak</h2>
+					<p>Nama Annas saputra<br />
+				</section>
+			</aside>
+			<footer>
+				&copy; Annas Saputra29
+			</footer>
+		</div><!-- .wrapper -->
+	</body>
+</html> 
